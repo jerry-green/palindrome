@@ -1,7 +1,3 @@
-// gcc is_palindrome_number_3.c -o is_palindrome_number_3_g611 -O3
-// Times for 10 000 000 numbers
-// Fedora 24, gcc 6.1.1: 0.156 sec
-
 #include <stdio.h>
 
 #define PALINDROME_MAX 1000000
